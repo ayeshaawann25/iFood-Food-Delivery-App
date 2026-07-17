@@ -1,0 +1,22 @@
+ifood/
+├── src/
+│   ├── components/
+│   │   ├── RestaurantCard.js
+│   │   ├── FoodItem.js
+│   │   ├── CartItem.js
+│   │   └── SearchBar.js
+│   ├── screens/
+│   │   ├── HomeScreen.js
+│   │   ├── RestaurantDetailScreen.js
+│   │   ├── CartScreen.js
+│   │   ├── OrderTrackingScreen.js
+│   │   └── ProfileScreen.js
+│   ├── navigation/
+│   │   └── AppNavigator.js
+│   ├── data/
+│   │   └── mockData.js
+│   └── utils/
+│       └── styles.js
+├── App.js
+├── package.json
+└── README.md
